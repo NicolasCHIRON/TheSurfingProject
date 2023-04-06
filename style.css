@@ -1,0 +1,29 @@
+
+/* .my-container {
+  border: 1px solid red; 
+}
+
+.my-row {
+  border: 1px dotted green;
+}
+
+.my-col {
+  border : 3px dotted blue;
+} */
+
+.bg-image {
+  background-image: url(images/imagefond.jpg) ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+
+}
+
+div {
+  font-size: 3vmin;
+ }
+
+
+
+ 
